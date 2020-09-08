@@ -1,0 +1,3 @@
+[submodule "Source/MyUnrealProject/VRBase"]
+	path = Source/MyUnrealProject/VRBase
+	url = https://github.com/MMC-Scholars/VRBase.git
